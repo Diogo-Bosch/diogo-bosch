@@ -1,6 +1,6 @@
-Hi there 👋 I'm Diogo!
+Hi there, I'm Diogo!
 
-* 🔭 I’m currently working as an InnerSource Program Expert at Bosch Open Source and InnerSource Program Office.
+* 🔭 I’m currently working as an InnerSource Program Expert at Bosch Open Source and InnerSource Program Office (OSPO).
 * 🌱 I’m an advocate of open source-style collaboration and InnerSource best practices.
 * ✨ I co-created Bosch's InnerSource program and love to foster better collaboration across teams.
 * 🤔 I'm passionate about reducing barriers to InnerSource adoption and improving development practices globally.
